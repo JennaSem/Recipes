@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JennaSem/Recipes/static/css/main.8a4f47b8.css",
+    "main.js": "/JennaSem/Recipes/static/js/main.464b129e.js",
+    "static/js/787.e6dcacba.chunk.js": "/JennaSem/Recipes/static/js/787.e6dcacba.chunk.js",
+    "static/media/vegetables.png": "/JennaSem/Recipes/static/media/vegetables.8492ebf44f373f57db19.png",
+    "index.html": "/JennaSem/Recipes/index.html",
+    "main.8a4f47b8.css.map": "/JennaSem/Recipes/static/css/main.8a4f47b8.css.map",
+    "main.464b129e.js.map": "/JennaSem/Recipes/static/js/main.464b129e.js.map",
+    "787.e6dcacba.chunk.js.map": "/JennaSem/Recipes/static/js/787.e6dcacba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a4f47b8.css",
+    "static/js/main.464b129e.js"
+  ]
+}
